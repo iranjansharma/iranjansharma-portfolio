@@ -8,11 +8,12 @@ export const personalData = {
   phone: "+91-8178-540-300",
   address: "Dwarka, New Delhi, India - 110071 ",
   github: "https://github.com/iranjansharma",
-  facebook: "https://www.facebook.com//",
-  linkedIn: "https://www.linkedin.com/in//",
+  facebook: "https://www.facebook.com/",
+  linkedIn: "https://www.linkedin.com/in/iranjansharma/",
   twitter: "https://twitter.com/",
   stackOverflow: "https://stackoverflow.com/users/",
-  leetcode: "https://leetcode.com/said3812/",
+  leetcode: "https://leetcode.com/u/iranjansharma/",
   devUsername: "iranjansharma",
-  resume: "#",
+  resume:
+    "https://drive.google.com/file/d/1gzgoBgdQfaHe80QB00JxURiDCfiysx6C/view?usp=sharing",
 };
